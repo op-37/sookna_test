@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611700020020",
+    "firebase_url": "https://sookna-ma-default-rtdb.firebaseio.com",
+    "project_id": "sookna-ma",
+    "storage_bucket": "sookna-ma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611700020020:android:fa483a070a2e8f44bccb61",
+        "android_client_info": {
+          "package_name": "com.sookna.ma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611700020020-dolb9cf47eu0he85v5m9hkfq1bebn480.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7czW6ZJSwAbvoamUIC-NYehJJSJH4fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611700020020-dolb9cf47eu0he85v5m9hkfq1bebn480.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
